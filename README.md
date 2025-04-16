@@ -1,4 +1,3 @@
-```markdown
 # 📋 Templates de Issues
 
 Este repositório contém modelos padronizados para criar issues no GitHub. Cada template tem uma finalidade específica: reportar bugs, propor novas funcionalidades ou registrar tarefas operacionais.
